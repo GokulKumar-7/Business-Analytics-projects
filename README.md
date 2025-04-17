@@ -1,0 +1,1 @@
+This repository contains analyses of diverse business problems and the insights derived from them. It features Python scripts, visualizations, and methodologies to solve real-world challenges and enhance decision-making, making it a valuable resource for data analyst and business analyst.
